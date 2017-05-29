@@ -1,5 +1,4 @@
-# emoji_aliases
-✨  emoji flair for your bash profile ✨
+# ✨  Emoji Aliases: flair for your bash profile ✨
 
 Copy these into your `.bash_profile` and reset your terminal.
 
